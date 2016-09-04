@@ -154,8 +154,8 @@ Backend
 -------
 
   * URL:
-    * Entorno de desarrollo: `http://localhost:8000/backend`
-    * Entorno de producción: `http://localhost:8000/app.php/backend`
+    * Entorno de desarrollo: `http://localhost:8000/admin`
+    * Entorno de producción: `http://localhost:8000/app.php/admin`
   * Credenciales de usuarios:
     * Nombre de usuario: `admin`
     * Contraseña: `1234`
